@@ -17,5 +17,15 @@
   Project wich was made during the study in Educational Center of HTP:  [project-mini](https://github.com/yrevtovich/yrevtovich.projectmini)
 
 ## Education
+  #### (november 2019 - current time) – Educational Center of HTP
+    Course: Front-End Development (Advanced level)  
+
+  #### (august 2019 - november 2019) – Educational Center of HTP  
+    Course: Front-End Development (Fundamentals)  
+    
+  #### (2013 - 2017) - Belarussian State Economic Univesity
+    Faculty: Accounting and economics  
+    Specialization: Accounting, analysis and auditштп in commercial organizations
 
 ## Language skills
+    English (A2)
