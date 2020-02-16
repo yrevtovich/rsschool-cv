@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1120px;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+img {
+    margin-left: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+h2 {
+    margin-bottom: 0;
+    background-color: #f5f5dc;
+}
+
+h3 {
+    margin-bottom: 5px;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+p, li, a {
+    font-size: 18px;
+}
+
+p, .code-example, ul {
+    margin-left: 50px;
+}
